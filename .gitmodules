@@ -1,0 +1,3 @@
+[submodule "Packages/com.akilar-liao.custom-common"]
+	path = Packages/com.akilar-liao.custom-common
+	url = https://github.com/AkilarLiao/CustomCommon.git
