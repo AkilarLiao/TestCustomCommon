@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.akilar-liao.custom-common": {
-      "version": "file:com.akilar-liao.custom-common",
+      "version": "file:com.akilar-liao.module.custom-common",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
